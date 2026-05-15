@@ -1,0 +1,13 @@
+ID_Producto,Nombre_Producto,Categoria,Precio_Lista
+PROD-501,Básica Mensual,Membresía,650
+PROD-502,VIP Mensual,Membresía,1300
+PROD-503,Anualidad Fit,Membresía,6999
+PROD-504,Proteína Isolatada,Suplementos,950
+PROD-505,Creatina Monohidratada,Suplementos,480
+PROD-506,Aminoácidos,Suplementos,550
+PROD-507,Cinturón Cuero,Accesorios,750
+PROD-508,Cuerda para saltar,Accesorios,250
+PROD-509,Cintas Rodilleras,Accesorios,400
+PROD-510,Licuado Post-Workout,Snacks,75
+PROD-511,Barra de Proteína,Snacks,50
+PROD-512,Bebida Electrolitos,Snacks,35
