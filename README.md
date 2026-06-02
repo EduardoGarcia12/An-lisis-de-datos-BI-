@@ -72,13 +72,6 @@ En este proyecto vamos a desarrollar un modelo estrella muy pequeño e implement
 </a>
 </p>
 
-
----
-
-## 📂 Repositorio del proyecto
-
-🔗 [Ver repositorio completo](https://github.com/EduardoGarcia12/An-lisis-de-datos-BI-)
-
 ---
 
 ## ⚙️ Flujo de trabajo del pipeline
